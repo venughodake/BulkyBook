@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BulkyBookWeb",
+    "\\BulkyBookWeb\\Views",
+    "\\BulkyBookWeb\\Views\\Home",
+    "\\BulkyBookWeb\\Views\\Shared",
+    "\\BulkyBookWeb\\wwwroot",
+    "\\BulkyBookWeb\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\BulkyBookWeb\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
